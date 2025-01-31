@@ -4,6 +4,13 @@
 
 **Thought Gym** is a structured mental fitness tool designed to help users **strengthen their thinking patterns, build resilience, and develop healthier thought habits**. Instead of just journaling, users **engage in guided cognitive workouts** to reframe negative thoughts, track progress, and visualize mental growth over time.
 
+## Architecture
+
+| Layer          | Technology                                                            |
+|----------------|-----------------------------------------------------------------------|
+| Authentication | Firebase Auth (currently Google auth, firebase project `thought-gym`) |
+| Frontend       | React (Nextjs)                                                        |
+
 ## Development Roadmap
 
 ### **Milestones**

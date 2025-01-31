@@ -1,0 +1,28 @@
+.container {
+  max-width: 600px;
+  margin: 2rem auto;
+  color: #ffffff;
+}
+
+.container > * {
+  margin-bottom: 1rem;
+}
+
+.inputField {
+  background-color: white;
+  border-radius: 4px;
+}
+
+.thoughtItem {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  color: white;
+}
+
+.debugText {
+  opacity: 0.6;
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+}
